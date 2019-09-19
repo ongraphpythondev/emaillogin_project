@@ -24,7 +24,7 @@ pip3 install virtualenv #if using linux(for python 3 and above)
 ```bash
 https://github.com/ongraphpythondev/emaillogin_project.git
 
-cd stripe_payment
+cd emaillogin
 
 virtualenv venv 
       or 
