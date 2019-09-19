@@ -22,7 +22,7 @@ pip3 install virtualenv #if using linux(for python 3 and above)
 ## Installation and Running :
 
 ```bash
-https://github.com/ongraphpythondev/emaillogin_project.git
+git clone https://github.com/ongraphpythondev/emaillogin_project.git
 
 cd emaillogin
 
