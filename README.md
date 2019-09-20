@@ -34,6 +34,9 @@ venv\Scripts\activate # for windows
       or
 source venv/bin/activate # for linux
 
+# install required packages for the project to run
+
+pip install -r requirements.txt
 
 python manage.py runserver
 ```
